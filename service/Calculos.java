@@ -1,5 +1,7 @@
 package service;
 
+// CÓDIGO AINDA EM DESENVOLVIMENTO! ESTÁ COM BUGS!
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -40,3 +42,4 @@ public class Calculos {
 	}
 
 }
+
